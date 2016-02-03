@@ -1,0 +1,3 @@
+C:\Users\Jacob\Documents\GitHub\Encryption\Encryption\bin\Debug\Cryptography.exe.config
+C:\Users\Jacob\Documents\GitHub\Encryption\Encryption\obj\Debug\Cryptography.exe
+C:\Users\Jacob\Documents\GitHub\Encryption\Encryption\obj\Debug\Cryptography.pdb
